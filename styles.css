@@ -39,7 +39,7 @@ h1 {
     padding-left: 5%;
 }
 
-@media (max-width:600px) {
+@media (max-width:800px) {
     .container {
         display: grid;
         grid-template-columns: 1fr;
