@@ -46,4 +46,7 @@ h1 {
         gap: 10px;
         justify-items: center;
     }
+    .image {
+        max-width: 100%;
+    }
 }
