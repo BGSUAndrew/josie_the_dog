@@ -6,9 +6,10 @@ html {
 .container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: masonry; 
     padding-left: 5%;
     padding-right: 5%;
-    gap: 5%;
+    gap: 1rem;
 }
 
 .image {
